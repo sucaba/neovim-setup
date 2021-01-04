@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='D:/work/tr/linsi_ui/src/components/Schedules/TemplateScheduleList'
+let g:netrw_dirhist_8='C:/Users/Bogdan_Kushnir/AppData/Local/nvim'
+let g:netrw_dirhist_7='D:\work\tr\linsi_aws-cicd\deployPipeline'
+let g:netrw_dirhist_6='C:/Users/Bogdan_Kushnir/.aws'
+let g:netrw_dirhist_5='D:/work/tr/linsi_releaser/release-2.58.0'
+let g:netrw_dirhist_4='C:\Users\Bogdan_Kushnir\.aws'
+let g:netrw_dirhist_3='D:/work/tr/linsi_ui/cypress/support'
+let g:netrw_dirhist_2='D:/work/tr/linsi_ui/cypress'
+let g:netrw_dirhist_1='D:/work/tr/linsi_ui/cypress/integration'
+let g:netrw_dirhist_0='D:/work/tr/linsi_ui/cypress/integration/smoke'
